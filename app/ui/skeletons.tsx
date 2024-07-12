@@ -216,11 +216,3 @@ export function InvoicesTableSkeleton() {
     </div>
   );
 }
-
-export function PaginationSkeleton() {
-  return (
-    <div>
-      <p>Loading Pagination...</p>
-    </div>
-  );
-}
